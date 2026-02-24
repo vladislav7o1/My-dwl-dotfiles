@@ -21,9 +21,10 @@ Before building and using dwl, you'll need to install the following dependencies
 ** Installation Commands by Distribution
 
 *** Arch Linux
-#+begin_src sh
+  
+
 sudo pacman -S wayland wayland-protocols wlroots_0_19 foot base-devel git wmenu wl-clipboard grim slurp swaybg firefox ttf-jetbrains-mono-nerd
-#+end_src
+
 
 * Colors and Customization
 
